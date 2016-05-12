@@ -1,0 +1,16 @@
+Source: screenfetch
+Section: x11
+Priority: optional
+Maintainer: Jens John <dev@2ion.de>
+Build-Depends: debhelper (>= 9), make
+Standards-Version: 3.9.5
+Homepage: https://github.com/KittyKatt/screenFetch
+Vcs-Git: https://github.com/KittyKatt/screenFetch.git
+Vcs-Browser: https://github.com/KittyKatt/screenFetch
+
+Package: screenfetch
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Recommends: scrot
+Description: Fetches system/theme information in terminal for Linux desktop screenshots
+ This version is a snapshot of the upstream git repository.
