@@ -1,3 +1,16 @@
+screenfetch (1:3.7.0~bl2+ca2e342-1) jessie-backports; urgency=medium
+
+  * Fix Makefile instlal paths (I need to sleep).
+
+ -- Jens John <dev@2ion.de>  Thu, 12 May 2016 14:59:39 +0200
+
+screenfetch (1:3.7.0~bl1+ca2e342-1) jessie-backports; urgency=medium
+
+  * Switch versioning scheme
+  * Fix Makefile instlal paths
+
+ -- Jens John <dev@2ion.de>  Thu, 12 May 2016 14:46:04 +0200
+
 screenfetch (3.7.0~git20160512+ca2e342-2) jessie-backports; urgency=medium
 
   * debian/control:change architecture to all
