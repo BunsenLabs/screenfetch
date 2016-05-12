@@ -1,3 +1,9 @@
+screenfetch (3.7.0~git20160512+ca2e342-2) jessie-backports; urgency=medium
+
+  * debian/control:change architecture to all
+
+ -- Jens John <dev@2ion.de>  Thu, 12 May 2016 14:37:49 +0200
+
 screenfetch (3.7.0~git20160512+ca2e342-1) jessie-backports; urgency=low
 
   * Initial release.
