@@ -1,3 +1,10 @@
+screenfetch (1:3.7.0~bl3+5b09eac-1) jessie-backports; urgency=medium
+
+  * Import changes from upstream up to commit 5b09eac.
+  * debian/control: update maintainer email address.
+
+ -- Jens John <dev@2ion.de>  Sun, 19 Jun 2016 10:28:02 +0200
+
 screenfetch (1:3.7.0~bl2+ca2e342-1) jessie-backports; urgency=medium
 
   * Fix Makefile instlal paths (I need to sleep).
