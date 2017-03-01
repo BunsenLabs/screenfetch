@@ -10,7 +10,7 @@ Vcs-Browser: https://github.com/KittyKatt/screenFetch
 
 Package: screenfetch
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}, bc
 Recommends: scrot
 Description: Fetches system/theme information in terminal for Linux desktop screenshots
  This version is a snapshot of the upstream git repository.
